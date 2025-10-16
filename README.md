@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior Computer engineering student at the University at Buffalo. My interests are Machine Learning and Embedded systems and robotics! I am currently working at the ESC Research Lab at UB creating Machine Learning models and datasets to detect Alzheimer's using speech biomarkers
+I am a senior Computer engineering student at the University at Buffalo. My interests are Machine Learning and Embedded systems and robotics! I am currently working at the ESC Research Lab at UB creating Machine Learning models and datasets to detect Alzheimer's using speech biomarkers
 
 
 ## 🌐 Socials:
